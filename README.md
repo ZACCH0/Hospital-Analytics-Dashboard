@@ -251,8 +251,6 @@ This dashboard provides executives with an operational snapshot of hospital admi
 
 This page enables management to monitor patient demand, evaluate healthcare quality, identify admission trends, and understand disease distribution across the hospital.
 
----
-
 ## 💰 Page 2 — Billing & Revenue Analysis
 
 This dashboard focuses on financial performance and revenue monitoring.
@@ -267,9 +265,7 @@ This dashboard focuses on financial performance and revenue monitoring.
 
 ### Business Value
 
-Provides visibility into hospital revenue, payment collection efficiency, outstanding balances, and financial performance, enabling finance teams to monitor cash flow and improve billing processes.
-
----
+Provides visibility into hospital revenue, payment collection efficiency, outstanding balances, and financial performance, enabling finance teams to monitor cash flow and improve billing processes
 
 ## 👥 Page 3 — Patient & Clinical Insights
 
@@ -287,8 +283,6 @@ This dashboard analyzes patient demographics and clinical information.
 
 Supports healthcare planning by helping management understand patient demographics, monitor disease trends, and identify groups requiring additional healthcare resources.
 
----
-
 ## 👨‍⚕️ Page 4 — Doctor Performance Analysis
 
 This dashboard evaluates physician productivity and operational performance.
@@ -304,8 +298,6 @@ This dashboard evaluates physician productivity and operational performance.
 ### Business Value
 
 Enables hospital leadership to monitor physician workload, evaluate service quality, identify high-performing doctors, and optimize resource allocation.
-
----
 
 # ❓ Business Questions Answered
 
@@ -323,8 +315,6 @@ This dashboard helps answer important business questions, including:
 - How much revenue remains outstanding?
 - Which payment methods are most commonly used?
 - How do admissions and revenue change over time?
-
----
 
 # 📈 Key Performance Indicators
 
@@ -345,8 +335,6 @@ The dashboard includes several dynamic KPIs designed to provide executives with 
 
 Each KPI responds dynamically to user selections, enabling flexible and interactive analysis.
 
----
-
 # 💡 Business Insights
 
 The dashboard provides a centralized view of hospital operations, enabling decision-makers to quickly identify trends, monitor performance, and respond proactively to operational challenges.
@@ -361,8 +349,6 @@ Key insights supported by the dashboard include:
 - Length of Stay analysis assists in optimizing bed utilization and improving operational efficiency.
 - Patient satisfaction metrics provide valuable feedback for improving service quality and patient experience.
 
----
-
 # 📋 Business Recommendations
 
 Based on the analytical capabilities of this dashboard, hospital management can:
@@ -375,7 +361,6 @@ Based on the analytical capabilities of this dashboard, hospital management can:
 - Analyze diagnosis trends to support preventive healthcare strategies.
 - Track operational KPIs regularly to enable proactive decision-making.
 
----
 
 # 🛠️ Technical Skills Demonstrated
 
@@ -394,8 +379,6 @@ This project demonstrates practical experience in:
 - Executive Reporting
 - Data Storytelling
 
----
-
 # 🚧 Challenges Encountered
 
 Throughout the project, several real-world data quality challenges were addressed, including:
@@ -410,8 +393,6 @@ Throughout the project, several real-world data quality challenges were addresse
 
 Addressing these challenges strengthened the reliability of the final reporting solution and reinforced the importance of data quality in Business Intelligence projects.
 
----
-
 # 🚀 Future Improvements
 
 Potential enhancements for future versions include:
@@ -425,8 +406,6 @@ Potential enhancements for future versions include:
 - Row-Level Security (RLS) for role-based access.
 - Integration with hospital information systems.
 
----
-
 # 🏁 Conclusion
 
 This project demonstrates how Business Intelligence can transform raw healthcare data into meaningful insights that support operational excellence and strategic decision-making.
@@ -437,8 +416,6 @@ Beyond showcasing technical proficiency in Power BI, this project reflects my ab
 
 For me, the greatest value of this project lies not only in building dashboards but in using data to answer meaningful business questions and support better outcomes for both organizations and the people they serve.
 
----
-
 # 👨‍💻 Author
 
 ## ZACCH
@@ -448,8 +425,6 @@ For me, the greatest value of this project lies not only in building dashboards 
 I enjoy transforming raw data into actionable insights through Business Intelligence, dashboard development, and data storytelling. My focus is on building analytical solutions that solve real business problems, improve decision-making, and create measurable value.
 
 ### 📫 Connect With Me
-
-- **GitHub:** https://github.com/ZACCH0
 - **LinkedIn:** https://linkedin.com/in/zacchtech
 
 If you found this project interesting or have feedback, I'd be happy to connect and discuss data analytics, Business Intelligence, and Power BI solutions.
