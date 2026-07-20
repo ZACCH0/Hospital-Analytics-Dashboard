@@ -94,33 +94,21 @@ The project aimed to:
 
 ## Executive Overview
 
-> *(Insert Dashboard Page 1 Screenshot)*
-
-![Admission Dashboard](images/page1.png)
-
+![Admission Dashboard](./images/adimission_overview.png)
 ---
 
 ## Billing & Revenue Analysis
-
-> *(Insert Dashboard Page 2 Screenshot)*
-
-![Billing Dashboard](images/page2.png)
+![Billing Dashboard](images/hospital_bills.png)
 
 ---
 
 ## Patient & Clinical Insights
 
-> *(Insert Dashboard Page 3 Screenshot)*
+![Patient Dashboard](images/patient.png)
 
-![Patient Dashboard](images/page3.png)
-
----
-
+--
 ## Doctor Performance Analysis
-
-> *(Insert Dashboard Page 4 Screenshot)*
-
-![Doctor Dashboard](images/page4.png)
+![Doctor Dashboard](images/doctor_performance.png)
 
 ---
 
@@ -201,10 +189,17 @@ These transformations improved overall data quality and ensured accurate KPI cal
 ---
 
 ## Power Query Preview
+![Power Query](images/queries.png)
 
-> *(Insert Power Query Screenshot Here)*
+## Admission Data Cleaning
+![Power Query](images/admission-query.png)
 
-![Power Query](images/power_query.png)
+## Billing Data Cleaning
+![Power Query](images/billing.png)
+
+## Patient Data Cleaning
+
+![Power Query](images/patients.png)
 
 ---
 
@@ -234,9 +229,7 @@ The model minimizes data redundancy, improves filtering behavior, and follows di
 
 ## Relationship Model
 
-> *(Insert Relationship View Screenshot Here)*
-
-![Relationship Model](images/data_model.png)
+![Relationship Model](images/relationship.png)
 
 ---
 
@@ -448,7 +441,7 @@ For me, the greatest value of this project lies not only in building dashboards 
 
 # 👨‍💻 Author
 
-## ZacchTech
+## ZACCH
 
 **Data Analyst | Power BI Developer | Python Developer | SQL Enthusiast**
 
@@ -456,7 +449,7 @@ I enjoy transforming raw data into actionable insights through Business Intellig
 
 ### 📫 Connect With Me
 
-- **GitHub:** https://github.com/ZacchTech
+- **GitHub:** https://github.com/ZACCH0
 - **LinkedIn:** https://linkedin.com/in/zacchtech
 
 If you found this project interesting or have feedback, I'd be happy to connect and discuss data analytics, Business Intelligence, and Power BI solutions.
